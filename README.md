@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm a 2025 Graduate (Fresher)<br>Current Location Jaipur<br>Open to relocate (Mumbai, Chennai, Bangalore, Pune, jaipur)<br>I am currently learning
+Full-stack developer (2025 graduate) focused on building scalable and practical web applications using React JS, Node JS, and JavaScript.
+
+I enjoy turning ideas into functional products — from designing responsive UIs to developing REST APIs and managing databases. I’ve built real-world projects with authentication, dynamic data handling, and modular architecture.
+
+Alongside development, I explore automation using Make and n8n to streamline workflows and integrate systems efficiently.
+
+Currently improving my skills in advanced backend systems, SQL, and modern frameworks, while staying adaptable to new technologies.
 
 
 ## 🌐 Socials:
@@ -14,10 +20,10 @@ I'm a 2025 Graduate (Fresher)<br>Current Location Jaipur<br>Open to relocate (Mu
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sujil75&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+-->
 ---
 [![](https://komarev.com/ghpvc/?username=Sujil75&icon=0&color=0)](https://visitcount.itsvg.in)
 
